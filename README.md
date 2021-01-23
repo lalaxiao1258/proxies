@@ -4,7 +4,7 @@
 
 ## 小火箭订阅地址（正常添加即可）：<br>
 
-https://raw.githubusercontent.com/sngxpro/proxies/main/proxies
+https://raw.githubusercontent.com/sngxpro/proxies/main/sngxfree
 
 ## 圈X订阅链接（复制下方整行，粘贴到配置文件[sever remote]标签下）：<br>
 
