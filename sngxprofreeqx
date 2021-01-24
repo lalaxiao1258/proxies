@@ -1,6 +1,6 @@
 vmess=awsglobalaccelerator.com:11000, method=chacha20-poly1305, password=4a89275e-e5bb-3f2e-b6c5-1df193d8bef8, obfs=ws, obfs-uri=/idsoa9, obfs-host=microsoft.com, tag=  公众号少年歌行PRO免费提供
-vmess=awsglobalaccelerator.com:11000, method=chacha20-poly1305, password=4a89275e-e5bb-3f2e-b6c5-1df193d8bef8, obfs=ws, obfs-uri=/idsoa9, obfs-host=microsoft.com, tag= 剩余流量无限
-vmess=awsglobalaccelerator.com:11000, method=chacha20-poly1305, password=4a89275e-e5bb-3f2e-b6c5-1df193d8bef8, obfs=ws, obfs-uri=/idsoa9, obfs-host=microsoft.com, tag= 到期时间看我心情
+vmess=awsglobalaccelerator.com:12000, method=chacha20-poly1305, password=4a89275e-e5bb-3f2e-b6c5-1df193d8bef8, obfs=ws, obfs-uri=/idsoa9, obfs-host=microsoft.com, tag= 剩余流量无限
+vmess=awsglobalaccelerator.com:13000, method=chacha20-poly1305, password=4a89275e-e5bb-3f2e-b6c5-1df193d8bef8, obfs=ws, obfs-uri=/idsoa9, obfs-host=microsoft.com, tag= 到期时间看我心情
 http=a1.ap.fastqvpn.com:29980, username=404641112670601216, password=2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=少年歌行pro赠送高速1🥰
 http=a2.ap.fastqvpn.com:29980, username=404641112670601216, password=2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=少年歌行pro赠送高速2😋
 http=a3.ap.fastqvpn.com:29980, username=404641112670601216, password=2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=少年歌行pro赠送高速3🤩
