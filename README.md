@@ -7,7 +7,7 @@
 https://raw.githubusercontent.com/sngxpro/proxies/main/sngxfree
 
 ## 圈X订阅链接<br>
-https://raw.githubusercontent.com/sngxpro/proxies/main/sngxfreeqx
+https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx
 
 ### 任何使用此开源项目的人须遵守GPL3.0协议，禁止盈利 
 https://www.gnu.org/licenses/gpl-3.0.html <br>
